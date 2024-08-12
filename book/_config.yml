@@ -67,7 +67,6 @@ sphinx:
         .py:
             - jupytext.reads
             - fmt: py:percent
-    html_extra_path: ['tutorials/mission-overview/images']
   local_extensions:
     build_gallery: "_ext"
 
