@@ -22,9 +22,6 @@ parts:
         - file: tutorials/example/tutorial-notebook
         - file: tutorials/nb-to-package/index.md
         - file: tutorials/mission-overview/icesat-2-mission-overview
-          sections:
-          - file: tutorials/mission-overview/index.md
-            options: hidden
 - caption: Projects
   chapters:
     - file: projects/index
